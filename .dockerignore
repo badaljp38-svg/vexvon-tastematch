@@ -1,0 +1,10 @@
+.git
+.env
+.env.*
+*.zip
+__pycache__
+.pytest_cache
+*.pyc
+SUBMISSION_DRAFT.md
+TEAM_HANDOFF.md
+tests/
